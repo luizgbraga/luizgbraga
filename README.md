@@ -16,7 +16,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 # 📊 Stats
-![](https://github-readme-stats.vercel.app/api?username=luizgbraga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=contribs,issues)
+![](https://github-readme-stats.vercel.app/api?username=luizgbraga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=luizgbraga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials
