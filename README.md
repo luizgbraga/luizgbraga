@@ -17,7 +17,7 @@
 
 # 📊 Stats
 ![](https://github-readme-stats.vercel.app/api?username=luizgbraga&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&hide=contribs,issues&show_icons=true&line_height=30)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=luizgbraga&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact&line_height=30)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=luizgbraga&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact&line_height=30)
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizgbraga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizgbraga) 
