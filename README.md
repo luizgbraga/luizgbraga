@@ -1,5 +1,5 @@
 # 💫 About Me
-👨🏻‍💻 I'm an engineering student working as an intern at a digital marketing agency<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning and enthusiast
+👨🏻‍💻 I'm an engineering student working as an intern at a digital marketing agency<br>📈 Currently, I'm automating tasks and developing softwares to perform digital marketing efforts<br>📓 Machine Learning enthusiast
 
 # 💻 Personal Skills
 
@@ -15,8 +15,8 @@
 ## Other
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=luizgbraga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api?username=luizgbraga&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizgbraga&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌐 Socials:
