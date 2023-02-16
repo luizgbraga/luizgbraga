@@ -21,3 +21,5 @@
 
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luizgbraga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luizgbraga) 
+
+![](https://github-profile-trophy.vercel.app/?username=luizgbraga&theme=radical&no-frame=false&no-bg=true&margin-w=4)
