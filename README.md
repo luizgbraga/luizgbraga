@@ -1,5 +1,5 @@
 # 💫 About Me
-👨🏻‍💻 I'm an computer engineering student working as a developer at Abstra<br>🖥️ Interested in competitive programming and mathematical approaches<br>📓 Experience in software development for digital marketing
+👨🏻‍💻 I'm an computer engineering student working as a developer at Abstra<br>🐍 Currently working on open-source devtool development in Python for automating workflows<br>🖥️ Interested in competitive programming and mathematical approaches<br>📓 Experience in software development for digital marketing
 
 # 💻 Personal Skills
 
