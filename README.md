@@ -1,8 +1,7 @@
 # 💫 About Me
-👨🏻‍💻 I'm an computer engineering student working as a developer at Abstra<br>🐍 Currently working on open-source devtool development in Python for automating workflows<br>🖥️ Interested in competitive programming and mathematical approaches<br>📓 Experience in software development for digital marketing
+👨🏻‍💻 I'm an computer engineering student passionate about building stuff<br>🐍 Currently working on open-source devtool development in Python for automating workflows<br>🎥 Researching in Gaussian Splatting and seeking challenges in Computer Vision
 
 # 💻 Personal Skills
-My current stack is React or Vue for frontend, Node for backend, PostgreSQL for database and Go for microservices.
 ## Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
