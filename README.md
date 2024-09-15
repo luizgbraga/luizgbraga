@@ -1,5 +1,5 @@
 # 💫 About Me
-👨🏻‍💻 I'm an computer engineering student passionate about building stuff<br>🐍 Currently working on open-source devtool development in Python for automating workflows<br>🎥 Researching in Gaussian Splatting and seeking challenges in Computer Vision
+👨🏻‍💻 I'm a computer engineering student passionate about building stuff<br>🐍 Currently working on open-source devtool development in Python for automating workflows<br>🎥 Researching in Gaussian Splatting and seeking challenges in Computer Vision
 
 # 💻 Personal Skills
 ## Frontend
