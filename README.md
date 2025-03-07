@@ -1,7 +1,7 @@
-# 💫 About Me
+# About Me
 👨🏻‍💻 I'm a computer engineering student passionate about building stuff<br>🐍 Currently working on open-source devtool development in Python for automating workflows<br>🎥 Researching in Gaussian Splatting and seeking challenges in Computer Vision
 
-# 💻 Personal Skills
+# Personal Skills
 ## Frontend
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
