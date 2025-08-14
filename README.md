@@ -1,5 +1,5 @@
 # About Me
-👨🏻‍💻 I'm a computer engineering student passionate about building stuff<br>🐍 Currently working on open-source devtool development in Python for automating and deploying workflows<br>🎥 Experience on research in Gaussian Splatting
+I'm a software engineer passionate about building stuff. Currently, I work building Abstra: an open-source, AI-driven Python tool for workflow automation. Recently, I conducted research on 3D Deformable Gaussian Splatting.
 
 # Personal Skills
 <div align="left">
